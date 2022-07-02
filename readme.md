@@ -24,3 +24,5 @@
 
 * git branch -d(D) "branch_name" - удаляет ветку
 
+* git branch -m "new_branch_name" - переименовывает ветку
+
