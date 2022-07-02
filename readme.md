@@ -28,3 +28,5 @@
 
 * git checkout - переключение между ветками
 
+* git merge "branch_name" - объединяет текущую ветку с веткой "branch_name"
+
