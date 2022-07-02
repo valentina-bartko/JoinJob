@@ -22,3 +22,5 @@
 
 * git branch "branch_name" - создает новую ветку
 
+* git branch -d(D) "branch_name" - удаляет ветку
+
