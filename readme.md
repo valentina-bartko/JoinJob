@@ -26,3 +26,5 @@
 
 * git branch -m "new_branch_name" - переименовывает ветку
 
+* git checkout - переключение между ветками
+
